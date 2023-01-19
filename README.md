@@ -1,2 +1,2 @@
 # sandbox
-Premier repository pour un test
+Premier repository pour un exercice.
